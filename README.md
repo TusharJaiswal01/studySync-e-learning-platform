@@ -22,20 +22,3 @@ Student Registration/Login: Students can sign up or log in to browse courses and
 Course Management: Instructors can add new courses with sections and content, and students can explore these courses.
 Cart Functionality: Students can add courses to their cart and proceed to enroll in them.
 Project Structure
-
-├── server
-│   ├── controllers
-│   ├── models
-│   ├── routes
-│   ├── middleware
-│   ├── server.js
-│   └── ...
-├── frontend
-│   ├── public
-│   ├── src
-│   │   ├── components
-│   │   ├── pages
-│   │   ├── App.js
-│   │   ├── index.js
-│   │   └── ...
-└── README.md
